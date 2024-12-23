@@ -5,7 +5,6 @@
 * [About](#about)
 * [Getting Started](#getting-started)
 * [Key Features](#key-faetures)
-* [Screenshots](#screenshots)
 * [Project Status](#project-status)
 
 ## About
@@ -105,10 +104,6 @@ The frontend application will run on a local development server, usually availab
  1. Open the frontend application in your browser at http://localhost:5173.
  2. The frontend will communicate with the backend API running at http://127.0.0.1:8000.
 
-
-
-
-## Screenshots
 
 ## Project Status
 Project is in progress
