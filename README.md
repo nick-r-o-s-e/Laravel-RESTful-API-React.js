@@ -44,7 +44,7 @@ Added functionality for filtering and sorting posts by status and creation date.
 ## Backend Setup
 #### Clone the repository:
 ```
-git clone <repository_url>  
+git clone https://github.com/nick-r-o-s-e/Laravel-RESTful-API-React.js
 ```
 #### Navigate to the backend folder:
 ```
