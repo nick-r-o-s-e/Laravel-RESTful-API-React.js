@@ -86,7 +86,7 @@ The backend server will be available at http://127.0.0.1:8000.
 ## Frontend Setup
 #### Navigate to the frontend folder:
 ```
-cd front  
+cd frontend-react
 ```
 
 #### Install npm modules:
